@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+qx.Class.define("${1:namespace.Class}", {
+	
+	extend : ${2:namespace.Class},
+
+	construct : function() {
+		this.base(arguments);
+	},
+
+	events : {
+	},
+
+	properties : {
+	},
+
+	members : {
+	}
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>qx.Class.define</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
