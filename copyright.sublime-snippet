@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+/* ************************************************************************
+
+	Application:
+		${1:app}
+
+	Copyright:
+		${2:year company www}
+
+	Authors:
+		${3:name}
+
+************************************************************************ */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>copyright</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
